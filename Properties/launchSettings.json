@@ -11,8 +11,6 @@
   "profiles": {
     "TeacherMicroservice": {
       "commandName": "Project",
-      //"launchBrowser": true,
-      //"launchUrl": "swagger",
       "applicationUrl": "https://localhost:7012;http://localhost:5076",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
